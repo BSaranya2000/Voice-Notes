@@ -1,0 +1,32 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  background: linear-gradient(to right bottom, #d13cff, #031f6a);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  color: #000;
+}
+h1  {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+}
+button {
+  justify-content: space-between;
+  padding: 12px 20px;
+  background-color: #0ea4da;
+  border: 0;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #000;
+  font-size: 20px;
+  font-weight: 500;
+}
